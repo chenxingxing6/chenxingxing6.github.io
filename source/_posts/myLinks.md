@@ -21,7 +21,10 @@ tags:
 | [@印象笔记](https://app.yinxiang.com/Login.action?targetUrl=%2FHome.action)  | 记录技术 |  笔记  |
 | [@免费在线作图ProcessOn](https://www.processon.com/)  | 在线作图 |  工作  |
 | [@在线脑图制作 zhiMap](https://zhimap.com/home)  | 在线作图 |  工作  |
-| [@日程管理](https://www.kooteam.com/cal/home.htm)  | 安排 |  工作  |
+| [@日程管理](https://www.kooteam.com/cal/home.htm)  | 安排 |  工作  |  
+| [@网盘资源搜索](http://pansou.com/)  | 网盘资源 |  链接  |  
+| [@在线调色板](http://tool.chinaz.com/Tools/OnlineColor.aspx)  | 调色板 |  工具  |
+| [@word在线工具](https://smallpdf.com/cn/word-to-pdf/)  | word | 工具  |
 ---
 
 ---
@@ -52,4 +55,14 @@ tags:
 | [@汽车](http://auto.sina.com.cn/)  | 新闻资讯门户网站 |  汽车  |
 | [@科技](https://tech.sina.com.cn/)  | 新闻资讯门户网站 | 科技  |
 
+
+---
+
+---
+# 娱乐
+---
+
+| 类目      |    描述 | 标签  |
+| :-------- | --------:| :--: |
+| [@中国曲谱网](http://www.qupu123.com/qiyue/jita/p217740.html)  | 音乐 |  曲谱  |
 ---

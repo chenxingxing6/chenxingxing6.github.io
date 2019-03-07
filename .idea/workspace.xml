@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe3658f8-c0f5-4d3f-acda-ae3e44d7c424" name="Default Changelist" comment="" />
+    <list default="true" id="fe3658f8-c0f5-4d3f-acda-ae3e44d7c424" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/myLinks.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/myLinks.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/myLinks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="246">
+                <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,9 +43,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
+    <option name="x" value="60" />
     <option name="y" value="23" />
-    <option name="width" value="934" />
+    <option name="width" value="1860" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,11 +71,6 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,7 +111,10 @@
       <workItem from="1546838903213" duration="847000" />
       <workItem from="1546929183641" duration="514000" />
       <workItem from="1547000212202" duration="1645000" />
-      <workItem from="1550395765927" duration="899000" />
+      <workItem from="1550395765927" duration="1501000" />
+      <workItem from="1550747969065" duration="714000" />
+      <workItem from="1551097568069" duration="711000" />
+      <workItem from="1551939359406" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1546839113937</created>
@@ -136,16 +137,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550396221744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1550396885302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550396885302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6654000" />
+    <option name="totallyTimeSpent" value="8736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="23" width="934" height="1057" extended-state="0" />
+    <frame x="60" y="23" width="1860" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42497262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20989668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +166,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.5896373" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44352332" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4134715" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -207,8 +216,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/myLinks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <first_editor relative-caret-position="246">
+            <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
           </first_editor>
           <second_editor />
         </state>
