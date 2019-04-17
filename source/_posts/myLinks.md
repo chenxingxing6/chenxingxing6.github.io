@@ -7,37 +7,79 @@ tags:
 # 工作
 ---
 
-| 名称      |    描述 | 标签  |
+| 工具链接      |    描述 | 标签  |
 | :-------- | --------:| :--: |
+| [@程序员的工具箱1](https://tool.lu/)  | 各种工具 |  在线  |  
+| [@程序员的工具箱2](http://tool.oschina.net/)  | 各种工具 |  在线  |    
 | [@json在线格式](https://www.json.cn)  | json.cn |  工具  |
 | [@json转Excel](http://www.bejson.com/json/json2excel/)  | 在线转换 |  工具  |
 | [@时间戳转换](https://tool.lu/timestamp/)  | 时间戳转换 |  工具  |
-| [@在线工具](https://tool.lu/)  | 非常实用 |  工具  |
+| [@免费在线作图ProcessOn](https://www.processon.com/)  | 在线作图 |  工作  |
+| [@在线脑图制作 zhiMap](https://zhimap.com/home)  | 在线作图 |  工作  |
+| [@在线调色板](http://tool.chinaz.com/Tools/OnlineColor.aspx)  | 调色板 |  工具  |
+| [@word在线工具](https://smallpdf.com/cn/word-to-pdf/)  | word | 工具  |
+| [@创客贴](https://www.chuangkit.com/)  | 图形编辑和平面设计工具 | UI设计  |
+| []()      |         |         |  
+| **常用链接**      |    **描述** | **标签**  |  
+| [@当图网PPT模板](http://www.99ppt.com/)  | 非常实用 |  链接  |
 | [@在线API文档](https://www.showdoc.cc/)  | 非常实用 |  工具  |
 | [@IDEA注册码1](http://idea.lanyus.com/)  | 非常实用 |  链接  |
 | [@IDEA注册码2](https://www.iteblog.com/idea/)  | 非常实用 |  链接  |
-| [@当图网PPT模板](http://www.99ppt.com/)  | 非常实用 |  链接  |
+| [@网盘资源搜索](http://pansou.com/)  | 网盘资源 |  链接  |  
+| [@TinyPNG](https://tinypng.com/)  | 图片压缩的网站 | UI设计  |
+| []()      |         |         |  
+| **笔记**      |    **描述** | **标签**  |  
 | [@有道云笔记](https://note.youdao.com/web/#/file/recent/empty)  | 记录生活 |  笔记  |
 | [@印象笔记](https://app.yinxiang.com/Login.action?targetUrl=%2FHome.action)  | 记录技术 |  笔记  |
-| [@免费在线作图ProcessOn](https://www.processon.com/)  | 在线作图 |  工作  |
-| [@在线脑图制作 zhiMap](https://zhimap.com/home)  | 在线作图 |  工作  |
 | [@日程管理](https://www.kooteam.com/cal/home.htm)  | 安排 |  工作  |  
-| [@网盘资源搜索](http://pansou.com/)  | 网盘资源 |  链接  |  
-| [@在线调色板](http://tool.chinaz.com/Tools/OnlineColor.aspx)  | 调色板 |  工具  |
-| [@word在线工具](https://smallpdf.com/cn/word-to-pdf/)  | word | 工具  |
 ---
 
 ---
 # 学习
 ---
 
-| 关注的网站      |    描述 | 标签  |
+| 互联网资讯类      |    描述 | 标签  |
 | :-------- | --------:| :--: |
-| [@简书](https://www.jianshu.com/)  | 简书 |  论坛  |
-| [@开源中国](https://www.oschina.net/)  | 开源中国 |  论坛  |
-| [@CSDN](https://www.csdn.net/)  | CSDN |  论坛  |
-| [@V2EX](https://www.v2ex.com/)  | 一个神奇的网站论坛社区 |  论坛  |
-| [@开发者头条](https://toutiao.io/)  | 程序员必装的 App |  论坛  |
+| [@开源中国](https://www.oschina.net/)  | 国内最大的开源技术社区 |  深圳2008  |
+| [@36氪](https://www.36kr.com/)  | 为创业者提供最好的产品和服务 | 北京2010 |  
+| [@虎嗅网](https://www.huxiu.com/)  | 精选,深度,犀利的商业科技资讯 |  北京2012  |
+| [@开发者头条](https://toutiao.io/)  | 程序员必装的 App |  论坛  | 
+| [@程序猿圈](https://www.cxyquan.com/)  | 在线博客学习网站 | 程序员  |   
+| []()      |         |         |  
+| **博客社区**      |    **描述** | **标签**  |
+| [@CSDN](https://www.csdn.net/)  | 中国的IT社区和服务平台 |  北京1999  |
+| [@51CTO](http://blog.51cto.com/)  | IT在线教育平台 | 北京2005  |   
+| [@简书](https://www.jianshu.com/)  | 创作社区 |  上海2013  |
+| [@掘金](https://juejin.im/)  | 分享技术社区，质量高 | 界面清爽简洁  |  
+| []()      |         |         |  
+| **问答类**      |    **描述** | **标签**  |
+| [@SegmentFault](https://segmentfault.com/)  | 中文领域最大的技术问答交流社区平台 | 杭州2012  |  
+| [@stackoverflow](https://stackoverflow.com/)  | 国外IT技术问答网站 | 程序员  |      
+| [@知乎](http://www.zhihu.com/)  | 网络问答社区 | 北京2011  |      
+| [@V2EX](https://www.v2ex.com/)  | 汇集各类奇妙好玩的话题和流行动向 |  增加知识面  |
+| []()      |         |         |  
+| **代码托管类**      |    **描述** | **标签**  |
+| [@Github](https://github.com/)  | 开源项目的托管平台 |  2008上线  |
+| [@码云](https://gitee.com)  | 云端软件开发协作平台 |  深圳奥思网络科技有限公司   |
+| [@coding](https://coding.net/)  | 让开发更简单 |  腾讯   |
+| []()      |         |         |  
+| **学习平台类**      |    **描述** | **标签**  |
+| [@慕课网](http://www.imooc.com/)  | 学习 |  学习  |
+| [@极客学院](http://www.jikexueyuan.com/)  | 学习 |  学习  |
+| [@实验楼](https://www.shiyanlou.com/)  | 学习 |  学习  |
+| [@实验楼](https://www.shiyanlou.com/)  | 学习 |  学习  |
+| [@开发者实验室](https://cloud.tencent.com/developer/labs?fromSource=gwzcw.235801.235801.235801)  | 学习 |  学习  |
+| []()      |         |         |  
+| **刷题网站**      |    **描述** | **标签**  |
+| [@Leetcode](https://leetcode-cn.com/problemset/all/)  | 美国的在线编程网站 |  各大IT公司的笔试面试题  |
+| [@赛马](http://www.acmcoder.com/index)  | 名企真题，在线编程 |  学习  |
+| [@牛客网](https://www.nowcoder.com/ta/coding-interviews?page=1)  | 程序员的学习和成长的专业平台 |  学习  |
+| [@洛谷](https://www.luogu.org/)  | 线评测系统 |  学习  |
+| [@PTA](https://pintia.cn/problem-sets)  | 程序设计类实验辅助教学平台 |  学习  |
+| [@AlgoCasts](https://algocasts.io/account)  | 算法讲解视频 |  学习  |
+
+
+
 
 ---
 # 生活
@@ -45,15 +87,11 @@ tags:
 
 | 类目      |    描述 | 标签  |
 | :-------- | --------:| :--: |
-| [@网址大全](https://www.5566.net/)  | 网址大全 |  world  |
 | [@香哈](https://www.xiangha.com/)  | 国内最大的互联网美食社区 |  吃  |
-| [@新浪网](https://www.sina.com.cn/)  | 新闻资讯门户网站 |  新闻资讯  |
-| [@微博](https://www.weibo.com/us)  | 新闻资讯门户网站 |  微博  |
-| [@财经](https://finance.sina.com.cn/)  | 新闻资讯门户网站 |  财经  |
-| [@体育](http://sports.sina.com.cn/)  | 新闻资讯门户网站 |  体育  |
-| [@娱乐](http://ent.sina.com.cn/)  | 新闻资讯门户网站 |  娱乐  |
-| [@汽车](http://auto.sina.com.cn/)  | 新闻资讯门户网站 |  汽车  |
-| [@科技](https://tech.sina.com.cn/)  | 新闻资讯门户网站 | 科技  |
+| [@健身吧](https://www.jianshen8.com/plan.html)  | 健美健身知识 |  健身  |
+
+
+
 
 
 ---
@@ -65,4 +103,23 @@ tags:
 | 类目      |    描述 | 标签  |
 | :-------- | --------:| :--: |
 | [@中国曲谱网](http://www.qupu123.com/qiyue/jita/p217740.html)  | 音乐 |  曲谱  |
+| [@SOOGIF](http://soogif.com/)  | 动图界的黑科技 |  搞笑  |
+
 ---
+
+
+# 找工作
+---
+
+| 名称      |    描述 | 标签  |
+| :-------- | --------:| :--: |
+| [@简历模板](https://latexresu.me/generator/templates)  | 链接 |  简历  |  
+| [@前程无忧](https://www.51job.com/)  | 链接 | 招聘网站  |  
+| [@智联招聘](http://www.zhaopin.com/)  | 链接 | 招聘网站  |  
+| [@大街网](http://www.dajie.com/)  | 链接 | 招聘网站  |  
+| [@猎聘网](http://www.liepin.com/)  | 链接 | 招聘网站  |  
+| [@拉勾网](http://www.lagou.com/)  | 链接 | 招聘网站  |  
+| [@内推网](http://www.neitui.me/)  | 链接 | 招聘网站  |  
+| [@阿里招聘官网](https://job.alibaba.com/zhaopin/index.htm)  | 链接 | 招聘网站  |  
+| [@今日头条招聘官网](https://job.toutiao.com/campus/position)  | 链接 | 招聘网站  |  
+| [@小米招聘官网](http://hr.xiaomi.com/)  | 链接 | 招聘网站  |  
