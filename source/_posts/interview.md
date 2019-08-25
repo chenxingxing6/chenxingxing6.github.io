@@ -35,7 +35,8 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
 ---
 
 ## 项目经历
-#### Shopping Mall（2018.7.5-2019.1.12）
+#### 智慧商圈（2018.7.5-2019.1.12）
+实习公司：杭州二维火科技有限公司
 开发环境：Idea+Maven+Git  
 软件架构：Cobar+SpringBoot+Redis+Dubbo+RocketMq+Activiti6
 项目描述：该项目是二维火智慧商圈系统为其提供集商管ERP、会员营销CRM、餐饮/零售和泛行业商户收银系统、公众号会员营销
@@ -55,7 +56,6 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   3. 参与销售数据，审批流的开发。
 
 
----
 #### 物联网环境监控中心（2018.5.21-2018.06.14）
 开发环境：Idea+Maven+Git  
 软件架构：Oracle+Socket+Swing+树莓派   
@@ -81,7 +81,6 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   3. 完成整个后台GUI的编写。  
 
 
----
 #### 淘淘商城（2018.1-2018.04）
 开发环境：Eclipse+Maven+Git  
 软件架构：Mysql+SSM+Redis+Solr+Dubbo   
@@ -103,7 +102,6 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   2. 使用Redis数据库做为系统的缓存。   
   3. 参与商品展示模块及搜索系统模块的开发及测试。    
   4. 搜索系统服务接口的开发，及solrCloud的安装及配置。  
----
 
 
 #### 上饶农商四扫平台（2017.10-2017.12）

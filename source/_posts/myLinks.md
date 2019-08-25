@@ -34,6 +34,22 @@ tags:
 | [@日程管理](https://www.kooteam.com/cal/home.htm)  | 安排 |  工作  |  
 ---
 
+
+# 世界那么大，出去看看
+---
+
+| 翻墙软件      |    描述 | 标签  |
+| :-------- | --------:| :--: |
+| [@海豚湾](https://xn--90wwvt03e.com/)  | 链接 |  19/月 速度还可以  |  
+| [@蘑菇云](https://www.mgssr.xyz/user)  | 链接 | 最便宜 10/月  |  
+| [@Vlia VPN](https://vilavpn.cc/index.php)  | 链接 | 翻墙  |  
+| []()      |         |         |  
+| **国外网站**      |    **描述** | **标签**  |  
+| [@YouTube](https://www.youtube.com/?reload=9)  | 链接 | 视频  |  
+| [@Fackbook](https://www.facebook.com/lanstarhua)  | 链接 | 社交  |  
+| [@Instagram](https://www.instagram.com/)  | 链接 | 图片，周杰伦经常玩  |  
+
+
 ---
 # 学习
 ---
@@ -45,6 +61,7 @@ tags:
 | [@虎嗅网](https://www.huxiu.com/)  | 精选,深度,犀利的商业科技资讯 |  北京2012  |
 | [@开发者头条](https://toutiao.io/)  | 程序员必装的 App |  论坛  | 
 | [@程序猿圈](https://www.cxyquan.com/)  | 在线博客学习网站 | 程序员  |   
+| [@书栈网](https://www.bookstack.cn/)  | 计算机电子书籍在线阅读和搜索下载网站 | 程序员  |   
 | []()      |         |         |  
 | **博客社区**      |    **描述** | **标签**  |
 | [@CSDN](https://www.csdn.net/)  | 中国的IT社区和服务平台 |  北京1999  |
