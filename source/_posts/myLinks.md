@@ -11,7 +11,8 @@ tags:
 | :-------- | --------:| :--: |
 | [@程序员的工具箱1](https://tool.lu/)  | 各种工具 |  在线  |  
 | [@程序员的工具箱2](http://tool.oschina.net/)  | 各种工具 |  在线  |    
-| [@json在线格式](https://www.json.cn)  | json.cn |  工具  |
+| [@变量命名神器](https://unbug.github.io/codelf/)  | 各种工具 |  在线  |         
+| [@json在线格式](https://www.json.cn)  | json.cn |  工具  |   
 | [@json转Excel](http://www.bejson.com/json/json2excel/)  | 在线转换 |  工具  |
 | [@时间戳转换](https://tool.lu/timestamp/)  | 时间戳转换 |  工具  |
 | [@免费在线作图ProcessOn](https://www.processon.com/)  | 在线作图 |  工作  |
@@ -27,7 +28,9 @@ tags:
 | [@IDEA注册码1](http://idea.lanyus.com/)  | 非常实用 |  链接  |
 | [@IDEA注册码2](https://www.iteblog.com/idea/)  | 非常实用 |  链接  |
 | [@网盘资源搜索](http://pansou.com/)  | 网盘资源 |  链接  |  
-| [@TinyPNG](https://tinypng.com/)  | 图片压缩的网站 | UI设计  |
+| [@TinyPNG](https://tinypng.com/)  | 图片压缩的网站 | UI设计  |   
+| [@在线USB](https://cowtransfer.com/)  | 奶牛快传 | 在线  |    
+| [@蓝凑云](http://www.lanzou.com/u)  | 在线网盘 | 在线  |   
 | []()      |         |         |  
 | **笔记**      |    **描述** | **标签**  |  
 | [@有道云笔记](https://note.youdao.com/web/#/file/recent/empty)  | 记录生活 |  笔记  |
