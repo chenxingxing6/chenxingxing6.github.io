@@ -4,31 +4,37 @@ date: 2018-06-14 14:04:00
 tags: 学习日志
 ---
 
-## 陈星星  Java开发工程师        
+## 陈星星  Java研发工程师        
 ---
 男 / 1997                   
 电话：18379643981             
 邮箱：lanstarthua@gmail.com              
-csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)  
+CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)    
+工作经验：一年多，CSDN博客浏览量：66万+   
 
 ## 教育背景  （2015-2019）  
 ```
-华东交通大学   软件工程（本科）  在校成绩：前2%    
+华东交通大学  软件工程  在校成绩：前2%    
 ```
 
 ## 软件技能
--  熟悉Java语言编程，了解常用的设计模式。
--  熟悉I/O、多线程、集合、网络编程等基础知识。
--  熟悉HTTP与HTTPS协议技术，了解TCP/IP模型。
--  熟悉elasticsearch及elk技术栈。
--  熟悉J2EE技术中的Servlet、Jsp、Filter与Interceptor技术。
--  对JS，jQuery，Ajax，BoorStrap，Node，Vue等前台开发技术有一定的了解。
--  熟悉应用服务器软件Tomcat，Jetty，Nginx等配置和部署,并了解Docker应用容器引擎。
--  熟练使用Eclipse、Idea、git等开发、版本控制工具，并会用Maven对项目进行管理。
--  熟悉Java相关的问题解决工具和常用的Linux命令，有较强的线上问题解决能力。
--  掌握Mysql等主流数据库，对索引、事务和锁有一定的研究，并了解Redis,Mongodb等NoSQL数据库。  
--  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。
--  了解分布式下的面向服务架构(SOA),会简单使用Dubbo，RocketMQ，Solr，Zookeeper等中间件技术。
+-  基本扎实的Java基础，深入理解OOP编程思想，具有良好的编码习惯。   
+-  熟练掌握IO、多线程、集合、网络编程等基础知识。  
+-  能够熟练运用Eclipse、InteliiJ IDEA等开发工具。  
+-  熟练运用JUnit、Debug进行程序调试。   
+-  熟练使用Git、MAVEN等项目版本管理及构建工具   
+-  熟悉Tomcat、Jetty、Apache、Nginx等服务器配置   
+-  熟悉HTTP与HTTPS协议技术，了解TCP/IP模型。   
+-  熟悉elasticsearch及elk技术栈。   
+-  熟悉J2EE技术中的Servlet、Jsp、Filter与Interceptor技术。   
+-  对JS，jQuery，Ajax，BoorStrap，Node，Vue等前台开发技术有一定的了解。   
+-  并了解Docker应用容器引擎。   
+-  熟悉Java相关的问题解决工具和常用的Linux命令，有较强的线上问题解决能力。   
+-  掌握Mysql等主流数据库，对索引、事务和锁有一定的研究，并了解Redis,Mongodb等NoSQL数据库。     
+-  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。   
+-  了解分布式下的面向服务架构(SOA),会简单使用Dubbo，RocketMQ，Solr，Zookeeper等中间件技术。   
+-  熟练掌握SpringMVC、MyBatis 等开源框架、深刻理解 SpringMVC 核心流程   
+-  自己手写过简易版SpringMvc，ORM，RPC等框架。   
 -  了解Hadoop/Hive/Hbase等分布式计算环境进行海量数据离线分析。
 
 
