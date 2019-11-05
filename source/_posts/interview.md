@@ -4,46 +4,44 @@ date: 2018-06-14 14:04:00
 tags: 学习日志
 ---
 
-## 陈星星  Java研发工程师        
----
-男 / 1997        
-电话：18379643981               
-求职意向：全职 / 杭州             
-邮箱：lanstarthua@gmail.com              
-CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)    
-工作年限：一年以上，CSDN博客浏览量：66万+  
-   
+# 陈星星 Java研发工程师        
+ - 男/1997
+ - 电话：18379643981  
+ - 邮箱：lanstarthua@gmail.com     
+ - 技术博客：https://blog.csdn.net/m0_37499059/
+ - Github：https://github.com/chenxingxing6
+ - 工作年限：1年，CSDN博客浏览量：66万+  
+ - 期望城市：杭州   
 
-## 教育背景  （2015-2019）  
+# 教育背景  （2015-2019）  
 ```
 华东交通大学  软件工程  专业成绩：前2%    
 ```
 
-## 软件技能
--  基本扎实的Java基础，深入理解OOP编程思想，具有良好的编码习惯。   
--  熟练掌握IO、多线程、集合、网络编程等基础知识。  
--  能够熟练运用Eclipse、InteliiJ IDEA等开发工具。  
--  熟练运用JUnit、Debug进行程序调试。   
--  熟练使用Git、MAVEN等项目版本管理及构建工具   
--  熟悉Tomcat、Jetty、Apache、Nginx等服务器配置   
--  熟悉HTTP与HTTPS协议技术，了解TCP/IP模型。   
--  熟悉elasticsearch及elk技术栈。   
--  熟悉J2EE技术中的Servlet、Jsp、Filter与Interceptor技术。   
--  对JS，jQuery，Ajax，BoorStrap，Node，Vue等前台开发技术有一定的了解。   
--  并了解Docker应用容器引擎。   
--  熟悉Java相关的问题解决工具和常用的Linux命令，有较强的线上问题解决能力。   
--  掌握Mysql等主流数据库，对索引、事务和锁有一定的研究，并了解Redis,Mongodb等NoSQL数据库。     
--  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。   
--  了解分布式下的面向服务架构(SOA),会简单使用Dubbo，RocketMQ，Solr，Zookeeper等中间件技术。   
--  熟练掌握SpringMVC、MyBatis 等开源框架、深刻理解 SpringMVC 核心流程   
--  自己手写过简易版SpringMvc，ORM，RPC等框架。   
--  了解Hadoop/Hive/Hbase等分布式计算环境进行海量数据离线分析。
+# 软件技能
+- Java 基础知识（IO，多线程，集合）：掌握
+- 计算机网络、数据结构、操作系统等课内基础知识：掌握
+- Spring、SpringMvc、Mybatis、Springboot：掌握
+- SSM整合、SOA架构：掌握
+- Linux：掌握，有较强的线上问题解决能力   
+- Dubbo：掌握
+- Redis：掌握
+- Zookeeper: 掌握
+- 常见消息队列: 掌握
+- MySQL索引、事务、锁有一定研究
+- Eclipse、InteliiJ IDEA开发工具：掌握
+- 项目版本及构建工具Git、Maven：掌握
+- 单元测试Junit、Debug调试：掌握
+- Tomcat、Jetty、Apache、Nginx等服务器：熟练
+- 非关系型数据库Mongodb：了解
+- elasticsearch及elk技术栈，solr搜索服务：了解
+- Spring Boot + Spring Cloud +Docker:了解
+- JS、Jquery、Ajax、Bootstrap、Node、Vue：了解
+- Hadoop生态相关技术中的HDFS、Storm、MapReduce、Hive、Hbase、spark：了解
+- 自己实现过简易版SpringMvc，ORM，RPC等框架。   
 
-
----
-
-## 项目经历
-#### 智慧商圈（2018.7.5-现在）
+# 项目经历
+## 智慧商圈（2018.7.5-现在）
 实习公司：杭州二维火科技有限公司
 开发环境：Idea+Maven+Git  
 软件架构：SpringBoot+Redis+Dubbo+RocketMq+Hadoop+Hive+Activiti6+Solr+Cobar  
@@ -65,8 +63,7 @@ CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   4. 参与停车券相关模块开发。
   5. 参与活动报名相关模块开发。  
 
-
-#### 物联网环境监控中心（2018.5.21-2018.06.14）
+## 物联网环境监控中心（2018.5.21-2018.06.14）
 开发环境：Idea+Maven+Git  
 软件架构：Oracle+Socket+Swing+树莓派   
 项目描述：该项目是用原生方法来实现，客户端采集传感器发送过来的数据，然后发送给服
@@ -90,8 +87,7 @@ CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   2. 参与整个项目的模块搭建，并实现网络/入库/配置模块。  
   3. 完成整个后台GUI的编写。  
 
-
-#### 淘淘商城（2018.1-2018.04）
+## 淘淘商城（2018.1-2018.04）
 开发环境：Eclipse+Maven+Git  
 软件架构：Mysql+SSM+Redis+Solr+Dubbo   
 项目描述：淘淘商城是一个综合性的B2C平台，类似京东商城、天猫商城。会员可以在
@@ -113,8 +109,7 @@ CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   3. 参与商品展示模块及搜索系统模块的开发及测试。    
   4. 搜索系统服务接口的开发，及solrCloud的安装及配置。  
 
-
-#### 上饶农商四扫平台（2017.10-2017.12）
+## 上饶农商四扫平台（2017.10-2017.12）
 开发环境：IDEA+Maven+Git      
 软件架构：Mysql+SSM+Redis+Shiro    
 项目描述：上饶农商四扫平台是一个数据录入平台，采用前后端完全分离的机制进行交互。使用Shiro实现对用户的认证和授权，为了提
@@ -124,9 +119,7 @@ CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   2. 负责数据库的构建和完整后台业务的开发及测试。  
   3. 通过本项目我对Web开发有了思路，对Restful接口规范更清晰的理解。
   
-  
-  
-#### 快递镖局（2017.6-2017.8）
+## 快递镖局（2017.6-2017.8）
 开发环境：Eclipse+Maven+Git      
 软件架构：Mysql+SSM+Shiro    
 项目描述：该项目是在大学期间和同学创业的一个小项目，主要功能是帮助学校的小伙伴们代领快递，小主只需要认证审核通过后，就可以任
@@ -135,28 +128,25 @@ CSDN：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
   1. 参与项目的需求分析。  
   2. 负责数据库的构建和完整后台业务的开发及测试。  
 
-
-#### 教务综合管理系统（2016.6-2017.6）
+## 教务综合管理系统（2016.6-2017.6）
 开发环境：Eclipse+Git      
 软件架构：Mysql+Struts2    
-项目描述：该项目是大学的教务综合管理系统，主要包括个人，课表，考试，成绩等信息的查询。使用的用户为老师和同学。      
+项目描述：该项目是大学的教务综合管理系统，主要包括个人，课表，考试，成绩等信息的查询。使用的用户为老师和同学。 
 责任描述：  
  1. 主要是维护该项目。  
  2. 优化，模块迁移等。
  3. 小功能进行迭代。  
 
-
----
-## 荣誉证书
+# 荣誉证书
 - 2015-2016学年：二等奖学金，英语4级证书，合唱最佳人气奖，优秀歌手奖
 - 2016-2017学年：二等奖学金，三好学生，计算机作品大赛优秀奖
 - 2017-2018学年：二等奖学金，三好学生   
 - 2018-2019学年：一等奖学金，优秀毕业生
 
-## 自我评价
+# 自我评价
 - 一个会弹吉他的程序猿，技术崇拜，认真负责，能够抗压，喜欢挑战，有团队合作精神。    
-- 学习能力强，思路清晰，善于从整体上分析、把握复杂事物，对细节难题具备快速钻研解决能力。  
+- 学习能力强，思路清晰，善于从整体上分析、把握复杂事物。  
 - 良好的表达与沟通能力，积极主动，对工作尽心负责。  
 
-
 ---
+

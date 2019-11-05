@@ -16,24 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/myLinks.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="825">
-                <caret line="55" selection-start-line="55" selection-end-line="55" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/interview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="145" column="14" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+              <first_editor relative-caret-position="493">
+                <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,7 +129,7 @@
       <workItem from="1568164469215" duration="2051000" />
       <workItem from="1571314158313" duration="596000" />
       <workItem from="1571918630347" duration="1749000" />
-      <workItem from="1572943571567" duration="1420000" />
+      <workItem from="1572943571567" duration="2489000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1546839113937</created>
@@ -220,14 +208,22 @@
       <option name="project" value="LOCAL" />
       <updated>1571920175410</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1572945449839</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1572945449839</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23259000" />
+    <option name="totallyTimeSpent" value="24328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1935" y="-97" width="1858" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14207947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,8 +236,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.5896373" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39067358" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5896373" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39067358" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -379,8 +375,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/myLinks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="825">
-            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <first_editor relative-caret-position="112">
+            <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -389,8 +385,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/interview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="145" column="14" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+          <first_editor relative-caret-position="493">
+            <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
           </first_editor>
           <second_editor />
         </state>
