@@ -36,6 +36,24 @@ tags:
 ---
 
 
+
+# 提高办事效率  
+---
+
+| 快捷地址      |    描述 | 标签  |
+| :-------- | --------:| :--: |
+| [@收藏工具](https://start.me/p/L147pG)  | 链接 | 管理浏览器书签 |      
+| [@嗖嗖嗖](http://www.bewindoweb.com/dwg.php)  | 链接 | 100多个学习网站的入口 |     
+| [@小白盘](https://www.xiaobaipan.com/list-java.html?from=1)  | 链接 |  搜索资料 |     
+| [@GitLogs](https://www.gitlogs.com/)  | 链接 | github开源项目搜索  |    
+| [@IFTTT](https://ifttt.com/applets/93312364d/edit)  | 链接 | 在线定时任务 |       
+| [@拷贝兔](https://cp.anyknew.com/)  | 链接 | 快速在线拷贝文件 |       
+| [@在线U盘](https://cowtransfer.com/)  | 链接 | 快速在线拷贝文件 |     
+        
+
+---
+
+
 # 世界那么大，出去看看
 ---
 
@@ -132,6 +150,7 @@ tags:
 | 名称      |    描述 | 标签  |
 | :-------- | --------:| :--: |
 | [@简历模板](https://latexresu.me/generator/templates)  | 链接 |  简历  |  
+| [@冷熊简历](http://cv.ftqq.com/#)  | 链接 |  转MD,PDF  |     
 | [@前程无忧](https://www.51job.com/)  | 链接 | 招聘网站  |  
 | [@智联招聘](http://www.zhaopin.com/)  | 链接 | 招聘网站  |  
 | [@大街网](http://www.dajie.com/)  | 链接 | 招聘网站  |  
